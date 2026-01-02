@@ -10,7 +10,7 @@
 
 ### APK Install (Android)
 
-- **Android APK**: `https://app.appsonair.com/install/C14EGgCs`
+- **Android APK**: `https://app.appsonair.com/install/BNLiHQju`
 
 ### Τι προσφέρει (ενδεικτικά)
 
